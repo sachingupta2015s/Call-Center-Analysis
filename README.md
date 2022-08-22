@@ -1,4 +1,4 @@
-https://www.istockphoto.com/photos/call-center-agent
+https://media.istockphoto.com/photos/call-center-workers-picture-id903568822?k=20&m=903568822&s=612x612&w=0&h=w65sKNORb_B012-RmuALcUs_KboIiauSCHwfsztRWVc=
 
 # Call-Center-Analysis
 In this Call center Dashboard, I have used all the processes of Data Cleaning, Data Visualization, and Pre-processing and after which I got an overview about what are pros and cons of the Call Center industry with the help of Excel. My Role was involved in Six processes: • Understanding the Business Insights, • Describing the dataset, • Preparing the data, • Performing Exploratory Analysis, • Visualize and present your findings.
